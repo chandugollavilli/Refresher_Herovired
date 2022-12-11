@@ -1,0 +1,7 @@
+the value of number1: 1.0
+the value of number2: 2.0
+the value of number3: 3.0
+the value of number4: 4.0
+the value of number5: 5.0
+the values of all numbers:  15.0
+the details:  {'6': '7'}
